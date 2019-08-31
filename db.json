@@ -51,7 +51,7 @@
     {
       "id": 7,
       "title": "Sol",
-      "images": ["sol-bottle.jpg", "sol-can.jpg"],
+      "images": ["sol-bottle.jpg"],
       "description": "Meksikolainen vuodesta 1899 valmistettu olut.",
       "price-range": 30,
       "preferability": 10
